@@ -1,0 +1,99 @@
+{
+    "buttons": [
+        {
+            "title": "Los Bronces",
+            "value": "1"
+        },
+        {
+            "title": "El Soldado",
+            "value": "2"
+        },
+        {
+            "title": "Las T\u00f3rtolas",
+            "value": "3"
+        },
+        {
+            "title": "Santiago",
+            "value": "4"
+        },
+        {
+            "title": "Chagres",
+            "value": "5"
+        },
+        {
+            "title": "Quellaveco-Santiago",
+            "value": "6"
+        },
+        {
+            "title": "LBUG",
+            "value": "7"
+        },
+        {
+            "title": "Otro \u2013 Actividad Laboral fuera de Anglo American",
+            "value": "8"
+        }
+    ],
+    "end_conversation": false,
+    "estado": {
+        "codigoEstado": 200,
+        "glosaEstado": "ok"
+    },
+    "general": {
+        "cid": "55470362-3538-463d-b1b2-d34c1a552fbe",
+        "nodo_id": {
+            "_node_output_map": {
+                "node_2_1584128290628": {
+                    "0": [
+                        0
+                    ]
+                },
+                "node_6_1611059116721": {
+                    "0": [
+                        0
+                    ]
+                },
+                "node_7_1586646798983": {
+                    "0": [
+                        0
+                    ]
+                },
+                "response_7_1613587499259": {
+                    "0": [
+                        0
+                    ]
+                }
+            },
+            "dialog_request_counter": 3,
+            "dialog_stack": [
+                {
+                    "dialog_node": "node_6_1611059116721"
+                }
+            ],
+            "dialog_turn_counter": 3,
+            "initialized": true,
+            "timezone": "America/Santiago"
+        },
+        "tipo": ""
+    },
+    "generic": [
+        {
+            "response_type": "text",
+            "text": ""
+        },
+        {
+            "response_type": "text",
+            "text": "<b>IGNACIO JAVIER SEGOVIA LEON</b>, a continuaci\u00f3n le haremos algunas preguntas, por favor ingrese la informaci\u00f3n solicitada."
+        },
+        {
+            "response_type": "text",
+            "text": "Por favor, ingrese a qu\u00e9 operaci\u00f3n se dirige: %%%Los Bronces::1/El Soldado::2/Las T\u00f3rtolas::3/Santiago::4/Chagres::5/Quellaveco-Santiago::6/LBUG::7/Otro \u2013 Actividad Laboral fuera de Anglo American::8%%%"
+        }
+    ],
+    "like": false,
+    "msg": [
+        " ",
+        " <b>IGNACIO JAVIER SEGOVIA LEON</b>, a continuaci\u00f3n le haremos algunas preguntas, por favor ingrese la informaci\u00f3n solicitada. ",
+        " Por favor, ingrese a qu\u00e9 operaci\u00f3n se dirige: "
+    ],
+    "rating": false
+}
