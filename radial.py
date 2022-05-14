@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt, mpld3
 import pandas as pd
 from math import pi
 
-matplotlib.use('Agg')
+#matplotlib.use('Agg')              #Comando para no levantar ventana python
 
 import base64
 from io import BytesIO
@@ -21,7 +21,7 @@ class radial:
         data_pd = pd.DataFrame(self.df)
         return data_pd
 
-    def get_plt(self)
+    def get_plt(self):
         frame = self.json_to_df()
         # ------- PART 1: Create background
  
@@ -83,7 +83,7 @@ class radial:
 
 # Set data
 a = {
-'group': ['Ale','Uli'],
+'group': ['A','U'],
 'var1': [5, 1.5],
 'var2': [5, 10],
 'var3': [5, 9],
